@@ -4,6 +4,7 @@ ingredients
 - 2 tsp salt
 - 1 tomato
 - 2 jalepenos
+- cilantro
 
 Instructions
 - cut friuts in half 
@@ -11,6 +12,7 @@ Instructions
 - squeeze lime
 - dice tomatoes 
 - mince jalepeno
+- mince cilantro
 - mix all ingrdients 
 
 enjoy on tortilla chips
